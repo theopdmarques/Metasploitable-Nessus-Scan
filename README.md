@@ -15,7 +15,7 @@ This project demonstrates the setup and scanning of a vulnerable VM (Metasploita
 - **Target:** Metasploitable2 VM IP 
 - **Purpose:** Identify critical, high, medium, and informational vulnerabilities.
 
-![Scan Configuration]("C:\Users\Theo\OneDrive\Pictures\Capturas de tela\Scan Config.png")
+![Scan Configuration](C:\Users\Theo\OneDrive\Pictures\Capturas de tela\Scan Config.png)
 
 ---
 
