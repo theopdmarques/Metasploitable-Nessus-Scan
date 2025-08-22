@@ -27,9 +27,10 @@ This project demonstrates the setup and scanning of a vulnerable VM (Metasploita
 | Rlogin service enabled | High | Cleartext login data and poorly authenticated logins; `.rhosts` files could grant full access. | Disable rlogin or comment out 'login' in `/etc/inetd.conf`; use SSH instead. |
 | Anonymous SSL ciphers | Medium | Traffic is encrypted but host identity isn’t verified; vulnerable to MITM attacks. | Reconfigure service to use proper SSL/TLS with verified certificates. |
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
-![Critical Vulnerability](screenshots/critical_vuln.png)
-![High Vulnerability](screenshots/high_vuln.png)
+![Dashboard Overview](screenshots/Nessus_scan_vulnerabilities.png)
+![Critical Vulnerability](screenshots/Critical_CVSS_10.png)
+![High Vulnerability](High_CVSS_7.5.png)
+![Medium Vulnerability](Medium_CVSS_4.4.png)
 
 ---
 
