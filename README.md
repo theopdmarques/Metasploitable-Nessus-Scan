@@ -23,7 +23,7 @@ This project demonstrates the setup and scanning of a vulnerable VM (Metasploita
 
 | Vulnerability | Severity | Risk | Remediation |
 |---------------|---------|------|------------|
-| VNC weak password | Critical | Remote attacker could gain full control using weak VNC password (Possibly dafault password) | Set a strong password for VNC; disable if not needed. Check other systems for use of Dafault Passwords|
+| VNC weak password | Critical | Remote attacker could gain full control using weak VNC password (Possibly dafault password) | Set a strong password for VNC; disable if not needed. Check other systems for use of default Passwords|
 | Rlogin service enabled | High | Cleartext login data and poorly authenticated logins; `.rhosts` files could grant full access. | Disable rlogin or comment out 'login' in `/etc/inetd.conf`; use SSH instead. |
 | Anonymous SSL ciphers | Medium | Traffic is encrypted but host identity isn’t verified; vulnerable to MITM attacks. | Reconfigure service to use proper SSL/TLS with verified certificates. |
 
