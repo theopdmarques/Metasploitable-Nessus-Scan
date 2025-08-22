@@ -29,8 +29,8 @@ This project demonstrates the setup and scanning of a vulnerable VM (Metasploita
 
 ![Dashboard Overview](screenshots/Nessus_scan_vulnerabilities.png)
 ![Critical Vulnerability](screenshots/Critical_CVSS_10.png)
-![High Vulnerability](High_CVSS_7.5.png)
-![Medium Vulnerability](Medium_CVSS_4.4.png)
+![High Vulnerability](screenshots/High_CVSS_7.5.png)
+![Medium Vulnerability](screenshots/Medium_CVSS_4.4.png)
 
 ---
 
