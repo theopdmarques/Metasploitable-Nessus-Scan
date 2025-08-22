@@ -41,9 +41,6 @@ This project demonstrates the setup and scanning of a vulnerable VM (Metasploita
 - Vulnerability scanning with Nessus  
 - Interpretation of scan results  
 - Understanding of vulnerability severity and remediation strategies  
-- Documentation and reporting for cybersecurity projects
+- Documentation and reporting for cybersecurity project
 
 ---
-
-## Notes
-- This is a lab environment; all vulnerabilities are intentionally present for educational purposes.
